@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #101010;
+    color: #FFFFFF;
+    height: 70px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+#logo {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 18px;
+}
+
+#user {
+    font-family: Inter;
+    margin-right: 18px;
+}
